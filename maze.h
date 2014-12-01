@@ -5,11 +5,12 @@
 #include <list>
 
 using namespace std; 
-//test
 
 class Maze {
 	
 public:
+   Maze(int);
+   ~Maze();
 	
 private:
 
